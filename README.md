@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek jangid</h1>
 <h3 align="center">Backend-focused Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkkk-15&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkkk-15" /> </p>
-
 - 🔭 I’m currently working on [Forge](https://github.com/Abhishekkkk-15/forge)
 and 
 [DevCon](https://github.com/Abhishekkkk-15/devcon)
