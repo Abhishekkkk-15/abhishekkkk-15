@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek jangid</h1>
 <h3 align="center">Backend-focused Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Forge](https://github.com/Abhishekkkk-15/forge)
-and 
+- 🔭 I’m currently working on 
 [DevCon](https://github.com/Abhishekkkk-15/devcon)
 - 🌱 I’m currently learning **Golang**
 
