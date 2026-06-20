@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Jangid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20building%20AI%20Agents%20%26%20Automation%20Tools&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Jangid&fontSize=50&fontColor=fff&fontAlignY=32&desc=Backend%20Engineer%20building%20AI%20Agents%20%26%20Automation%20Tools&descAlignY=58&descSize=18&reversal=false" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Shipping+RAG+%2B+automation+tooling;Go+%7C+Rust+%7C+TypeScript+backend+engineer" alt="Typing SVG" />
 
@@ -76,4 +76,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" width="100%"/>
