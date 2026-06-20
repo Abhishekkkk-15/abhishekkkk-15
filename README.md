@@ -18,17 +18,12 @@
 
 ### 🚀 What I'm Building
 
-<div align="center">
-
-[![jarvis-assistant](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=jarvis-assistant&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/jarvis-assistant)
-[![internal-search](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=internal-search&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/internal-search)
-[![Eden](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=Eden&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/Eden)
-
-[![commit-assistant](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=commit-assistant&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/commit-assistant)
-[![infra-cd](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=infra-cd&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/infra-cd)
-[![RAG-Powered-Chatbot-for-News](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=RAG-Powered-Chatbot-for-News&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/RAG-Powered-Chatbot-for-News)
-
-</div>
+- 🧠 **[jarvis-assistant](https://github.com/abhishekkkk-15/jarvis-assistant)** : an open-source AI desktop companion that lives on your screen, sees your screen, hears your voice, and performs tasks autonomously
+- 🔍 **[internal-search](https://github.com/abhishekkkk-15/internal-search)** : an AI-powered internal search assistant that syncs docs from Slack, Notion, GitHub & Jira for RAG and vector-based querying
+- 🪐 **[Eden](https://github.com/abhishekkkk-15/Eden)** : an AI-driven workspace designed to help teams organize, search, and automate their data
+- ✍️ **[commit-assistant](https://github.com/abhishekkkk-15/commit-assistant)** : an AI-driven CLI that enforces Conventional Commits with intelligent commit-message suggestions
+- 🔁 **[infra-cd](https://github.com/abhishekkkk-15/infra-cd)** : a self-hosted CI/CD platform with agent-based deployments, real-time logs, and modern infra management
+- 📰 **[RAG-Powered-Chatbot-for-News](https://github.com/abhishekkkk-15/RAG-Powered-Chatbot-for-News)** : a RAG-powered chatbot that answers questions using live news data
 
 <details>
 <summary>🗂️ More projects</summary>
