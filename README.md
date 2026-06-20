@@ -10,7 +10,7 @@
 
 - 🤖 Building autonomous **AI agents** & **RAG** systems — [`jarvis-assistant`](https://github.com/abhishekkkk-15/jarvis-assistant), [`internal-search`](https://github.com/abhishekkkk-15/internal-search), [`Eden`](https://github.com/abhishekkkk-15/Eden)
 - ⚙️ Shipping developer-automation tooling — self-hosted CI/CD, AI commit assistants, encrypted env managers
-- 🦀 Currently exploring **Rust** for systems & infra tooling alongside Go and TypeScript
+- 🛠️ Building backend & infrastructure tooling with **TypeScript**, **Go**, and **Rust**
 - 🌐 All projects live at **[abhishekkkk.in](https://abhishekkkk.in)**
 - 📫 Reach me at **abhishekjangid3489@gmail.com**
 
