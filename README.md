@@ -1,20 +1,84 @@
-<h1 align="center">Hi 👋, I'm Abhishek jangid</h1>
-<h3 align="center">Backend-focused Full Stack Developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on 
-[DevCon](https://github.com/Abhishekkkk-15/devcon)
-- 🌱 I’m currently learning **Golang**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Jangid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20building%20AI%20Agents%20%26%20Automation%20Tools&descAlignY=58&descSize=18" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://abhishekkkk.in](https://abhishekkkk.in)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Shipping+RAG+%2B+automation+tooling;Go+%7C+Rust+%7C+TypeScript+backend+engineer" alt="Typing SVG" />
 
-- 📫 How to reach me **abhishekjangid3489@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-jangid-3532b1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-jangid-3532b1323" height="30" width="40" /></a>
-</p>
+### 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🤖 Building autonomous **AI agents** & **RAG** systems — [`jarvis-assistant`](https://github.com/abhishekkkk-15/jarvis-assistant), [`internal-search`](https://github.com/abhishekkkk-15/internal-search), [`Eden`](https://github.com/abhishekkkk-15/Eden)
+- ⚙️ Shipping developer-automation tooling — self-hosted CI/CD, AI commit assistants, encrypted env managers
+- 🦀 Currently exploring **Rust** for systems & infra tooling alongside Go and TypeScript
+- 🌐 All projects live at **[abhishekkkk.in](https://abhishekkkk.in)**
+- 📫 Reach me at **abhishekjangid3489@gmail.com**
 
+<br/>
 
+### 🚀 What I'm Building
+
+<div align="center">
+
+[![jarvis-assistant](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=jarvis-assistant&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/jarvis-assistant)
+[![internal-search](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=internal-search&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/internal-search)
+[![Eden](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=Eden&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/Eden)
+
+[![commit-assistant](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=commit-assistant&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/commit-assistant)
+[![infra-cd](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=infra-cd&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/infra-cd)
+[![RAG-Powered-Chatbot-for-News](https://github-readme-stats.vercel.app/api/pin/?username=abhishekkkk-15&repo=RAG-Powered-Chatbot-for-News&theme=tokyonight&hide_border=true)](https://github.com/abhishekkkk-15/RAG-Powered-Chatbot-for-News)
+
+</div>
+
+<details>
+<summary>🗂️ More projects</summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| [k8s-tui](https://github.com/abhishekkkk-15/k8s-tui) | Terminal UI for managing Kubernetes clusters, written in Rust |
+| [env-keeper](https://github.com/abhishekkkk-15/env-keeper) | Secure CLI for managing env vars with AES-GCM encryption & OS keyring caching |
+| [AI_NOTES_SUMMARIZER](https://github.com/abhishekkkk-15/AI_NOTES_SUMMARIZER) | LLM-powered note & text summarizer |
+| [email_scheduler](https://github.com/abhishekkkk-15/email_scheduler) | Automated email campaign tool with a visual workflow builder |
+| [forge](https://github.com/abhishekkkk-15/forge) | CLI to scaffold boilerplate projects across languages & frameworks |
+| [collabflow](https://github.com/abhishekkkk-15/collabflow) | Real-time collaboration platform for workspaces & tasks |
+
+</details>
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,rust,ts,js,nodejs,express,nextjs,react,html&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,postgres,redis,mongodb,kafka,graphql,git&theme=dark" />
+
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekkkk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=abhishekkkk-15&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkkk-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+### 🔗 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abhishek-jangid-3532b1323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abhishekjangid3489@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://abhishekkkk.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
