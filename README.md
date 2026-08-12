@@ -1,79 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhishek%20Jangid&fontSize=50&fontColor=fff&fontAlignY=32&desc=Backend%20Engineer%20building%20AI%20Agents%20%26%20Automation%20Tools&descAlignY=58&descSize=18&reversal=false" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Shipping+RAG+%2B+automation+tooling;Go+%7C+Rust+%7C+TypeScript+backend+engineer" alt="Typing SVG" />
+```
+╭───────────────────────────────────────────────────────────────────╮
+│                                                                   │
+│   █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗    │
+│  ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝    │
+│  ███████║███████╔███████║██║███████╗███████║█████╗  █████╔╝     │
+│  ██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗     │
+│  ██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗    │
+│  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    │
+│                                                                   │
+│     ██╗ █████╗ ███╗  ██╗ ██████╗ ██╗██████╗                      │
+│     ██║██╔══██╗████╗ ██║██╔════╝ ██║██╔══██╗                     │
+│     ██║███████║██╔██╗██║██║  ███╗██║██║  ██║                     │
+│ ██  ██║██╔══██║██║╚████║██║   ██║██║██║  ██║                     │
+│ ╚████╔╝██║  ██║██║ ╚███║╚██████╔╝██║██████╔╝                     │
+│  ╚═══╝ ╚═╝  ╚═╝╚═╝  ╚══╝ ╚═════╝ ╚═╝╚═════╝                      │
+│                                                                   │
+│  > Backend Engineer │ AI Agents & RAG Pipelines                  │
+│  > JS/TS & Python   │ Learning Go & Rust                         │
+│                                                                   │
+╰───────────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-### 👋 About Me
+### ─── [ 01 ] ABOUT ME ───────────────────────────────────────────────────────
 
-- 🤖 Building autonomous **AI agents** & **RAG** systems — [`jarvis-assistant`](https://github.com/abhishekkkk-15/jarvis-assistant), [`internal-search`](https://github.com/abhishekkkk-15/internal-search), [`Eden`](https://github.com/abhishekkkk-15/Eden)
-- ⚙️ Shipping developer-automation tooling — self-hosted CI/CD, AI commit assistants, encrypted env managers
-- 🛠️ Building backend & infrastructure tooling with **TypeScript**, **Go**, and **Rust**
-- 🌐 All projects live at **[abhishekkkk.in](https://abhishekkkk.in)**
-- 📫 Reach me at **abhishekjangid3489@gmail.com**
+```text
+$ whoami
+Backend Engineer building Autonomous AI Agents, vector-based RAG search, 
+and developer tooling using JS/TS & Python — currently exploring Go & Rust.
+```
 
-<br/>
+- 🤖 **AI & RAG Systems**: Building autonomous agents ([`pi`](https://github.com/abhishekkkk-15/pi), [`jarvis-assistant`](https://github.com/abhishekkkk-15/jarvis-assistant)), enterprise search ([`internal-search`](https://github.com/abhishekkkk-15/internal-search)), and knowledge workspaces ([`Eden`](https://github.com/abhishekkkk-15/Eden)).
+- ⚙️ **DevOps & Infrastructure**: Developing self-hosted CI/CD ([`infra-cd`](https://github.com/abhishekkkk-15/infra-cd)) and Kubernetes TUI ([`k8s-tui`](https://github.com/abhishekkkk-15/k8s-tui)).
+- 🌱 **Currently Learning**: Deep diving into **Go** and **Rust** systems programming.
+- 🌐 **Portfolio**: Check out my website & portfolio at **[abhishekkkk.in](https://abhishekkkk.in)**.
 
-### 🚀 What I'm Building
+---
 
-- 🧠 **[jarvis-assistant](https://github.com/abhishekkkk-15/jarvis-assistant)** : an open-source AI desktop companion that lives on your screen, sees your screen, hears your voice, and performs tasks autonomously
-- 🔍 **[internal-search](https://github.com/abhishekkkk-15/internal-search)** : an AI-powered internal search assistant that syncs docs from Slack, Notion, GitHub & Jira for RAG and vector-based querying
-- 🪐 **[Eden](https://github.com/abhishekkkk-15/Eden)** : an AI-driven workspace designed to help teams organize, search, and automate their data
-- ✍️ **[commit-assistant](https://github.com/abhishekkkk-15/commit-assistant)** : an AI-driven CLI that enforces Conventional Commits with intelligent commit-message suggestions
-- 🔁 **[infra-cd](https://github.com/abhishekkkk-15/infra-cd)** : a self-hosted CI/CD platform with agent-based deployments, real-time logs, and modern infra management
-- 📰 **[RAG-Powered-Chatbot-for-News](https://github.com/abhishekkkk-15/RAG-Powered-Chatbot-for-News)** : a RAG-powered chatbot that answers questions using live news data
+### ─── [ 02 ] FEATURED PROJECTS ────────────────────────────────────────────
+
+```text
+┌── 🤖 AI & AGENTS
+├── 🥧 pi ──────────────── Python implementation of the PI autonomous coding agent
+├── 🧠 jarvis-assistant ─── Open-source autonomous AI desktop companion (vision + voice + tasks)
+├── 🔍 internal-search ── AI search engine syncing Slack, Notion, GitHub & Jira for RAG queries
+└── 🪐 Eden ────────────── AI-powered workspace organizing & automating team data
+
+┌── 🛠️ DEV TOOLING & INFRASTRUCTURE
+├── ✍️ commit-assistant ─ AI CLI enforcing Conventional Commits with smart suggestions
+├── 🔁 infra-cd ───────── Self-hosted CI/CD platform with agent deployments & live logs
+└── 🦀 k8s-tui ───────── Terminal UI for managing Kubernetes clusters written in Rust
+```
 
 <details>
-<summary>🗂️ More projects</summary>
+<summary><b>📂 View More Repositories</b></summary>
+
 <br/>
 
-| Project | Description |
-|---|---|
-| [k8s-tui](https://github.com/abhishekkkk-15/k8s-tui) | Terminal UI for managing Kubernetes clusters, written in Rust |
-| [env-keeper](https://github.com/abhishekkkk-15/env-keeper) | Secure CLI for managing env vars with AES-GCM encryption & OS keyring caching |
-| [AI_NOTES_SUMMARIZER](https://github.com/abhishekkkk-15/AI_NOTES_SUMMARIZER) | LLM-powered note & text summarizer |
-| [email_scheduler](https://github.com/abhishekkkk-15/email_scheduler) | Automated email campaign tool with a visual workflow builder |
-| [forge](https://github.com/abhishekkkk-15/forge) | CLI to scaffold boilerplate projects across languages & frameworks |
-| [collabflow](https://github.com/abhishekkkk-15/collabflow) | Real-time collaboration platform for workspaces & tasks |
+| Repository | Tech | Description |
+|:---|:---|:---|
+| [`pi`](https://github.com/abhishekkkk-15/pi) | Python / AI | Python implementation of the PI coding agent |
+| [`jarvis-assistant`](https://github.com/abhishekkkk-15/jarvis-assistant) | Python / AI | AI desktop companion living on screen |
+| [`internal-search`](https://github.com/abhishekkkk-15/internal-search) | Go / TS / RAG | Internal search assistant syncing docs across tools |
+| [`Eden`](https://github.com/abhishekkkk-15/Eden) | TS / React | AI-driven workspace for team data automation |
+| [`commit-assistant`](https://github.com/abhishekkkk-15/commit-assistant) | Rust / CLI | AI CLI enforcing Conventional Commits |
+| [`infra-cd`](https://github.com/abhishekkkk-15/infra-cd) | Go / Docker | Self-hosted agent-based CI/CD platform |
+| [`k8s-tui`](https://github.com/abhishekkkk-15/k8s-tui) | Rust | Terminal UI for Kubernetes management |
+| [`AI_NOTES_SUMMARIZER`](https://github.com/abhishekkkk-15/AI_NOTES_SUMMARIZER) | Python / LLM | Automated note & text summarization engine |
+| [`email_scheduler`](https://github.com/abhishekkkk-15/email_scheduler) | Node.js | Automated campaign scheduler with visual workflow builder |
+| [`collabflow`](https://github.com/abhishekkkk-15/collabflow) | TS / React | Real-time collaborative workspace platform |
 
 </details>
 
-<br/>
+---
 
-### 🛠️ Tech Stack
+### ─── [ 03 ] TECH STACK ───────────────────────────────────────────────────
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,rust,ts,js,nodejs,express,nextjs,react,html&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,postgres,redis,mongodb,kafka,graphql,git&theme=dark" />
-
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
+```text
+┌── LANGUAGES ───────── [ TypeScript, JavaScript, Python ]
+├── LEARNING ────────── [ Go, Rust ]
+├── BACKEND & API ───── [ Node.js, Express, Next.js, REST, GraphQL, WebSockets ]
+├── DATA & CACHE ────── [ PostgreSQL, Redis, MongoDB, Vector Databases ]
+└── INFRA & TOOLS ───── [ Docker, Kubernetes, AWS, Linux, Kafka, Git ]
+```
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekkkk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=abhishekkkk-15&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkkk-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nextjs,react,go,rust,docker,kubernetes,aws,postgres,redis,mongodb,git&theme=dark" />
 </div>
 
-<br/>
+---
 
-### 🔗 Connect
+### ─── [ 04 ] STATS ────────────────────────────────────────────────────────
 
 <div align="center">
-
-<a href="https://linkedin.com/in/abhishek-jangid-3532b1323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abhishekjangid3489@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://abhishekkkk.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkkk-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekkkk-15&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkkk-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&reversal=false" width="100%"/>
+---
+
+### ─── [ 05 ] CONNECT ───────────────────────────────────────────────────────
+
+```text
+  🌐 Portfolio  :: https://abhishekkkk.in
+  📫 Email      :: abhishekjangid3489@gmail.com
+  💼 LinkedIn   :: https://linkedin.com/in/abhishek-jangid-3532b1323
+  🐙 GitHub     :: https://github.com/abhishekkkk-15
+```
+
+<div align="center">
+  <a href="https://abhishekkkk.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhishek-jangid-3532b1323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhishekjangid3489@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
